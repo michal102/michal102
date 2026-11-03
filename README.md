@@ -26,7 +26,7 @@ physics sims, retro assembly, and games, mostly built to see what breaks
 
 ## engineering thesis (inżynierka)
 
-**[FridgeProject](https://github.com/kamix-xx/FridgeProject)**: a smart fridge web app, built together with [@kamix-xx](https://github.com/kamix-xx). `Python` · [live demo](https://fridgeproject-0tjd.onrender.com)
+**[FridgeProject](https://github.com/kamix-xx/FridgeProject)**: a smart fridge web app, built together with [@kamix-xx](https://github.com/kamix-xx) and [Candle]https://github.com/PawelSwieca. `Python` · [live demo](https://fridgeproject-0tjd.onrender.com)
 
 ## other projects
 
