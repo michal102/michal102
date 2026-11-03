@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i'm michal :3
+# hi, i'm Michał :3
 
 **computer science student @ [Lublin University of Technology (Politechnika Lubelska)](https://pollub.pl)**
 physics sims, retro assembly, and games, mostly built to see what breaks
