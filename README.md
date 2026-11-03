@@ -22,7 +22,7 @@ physics sims, retro assembly, and games, mostly built to see what breaks
 
 - 🌊 simulating things: fluids, collisions, smoke
 - 🕹️ small games in odd places (console python, masm32 assembly)
-- 🎓 studying at **PoLuB** in Lublin, Poland 🇵🇱
+- 🎓 studying at **POLLUB** in Lublin, Poland 🇵🇱
 
 ## engineering thesis (inżynierka)
 
