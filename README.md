@@ -27,27 +27,13 @@ physics sims, retro assembly, and games, mostly built to see what breaks
 ## languages
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-C9A800?style=for-the-badge" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge" alt="PHP"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" alt="CSS"/>
-  <img src="https://img.shields.io/badge/MASM32-6E4C13?style=for-the-badge" alt="MASM32 assembly"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,py,php&perline=9" alt="C, C++, C#, Java, JavaScript, HTML, CSS, Python, PHP" height="48"/><img src="assets/masm.svg" alt="MASM32 assembly" height="48" hspace="5"/>
 </p>
 
 ## tools &amp; tech
 
 <p>
-  <img src="https://img.shields.io/badge/Unity-222C37?style=for-the-badge" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge" alt="Django"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Render-2E9E80?style=for-the-badge" alt="Render"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=unity,django,sqlite,git,github&perline=5" alt="Unity, Django, SQLite, Git, GitHub" height="48"/>
 </p>
 
 ## engineering thesis (inżynierka)
