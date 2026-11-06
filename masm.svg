@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="48" height="48" role="img" aria-label="MASM32 assembly">
+  <title>MASM32 assembly</title>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <rect x="38" y="52" width="180" height="152" rx="18" fill="#1a1d2b" stroke="#5b6cff" stroke-width="8"/>
+  <text x="128" y="148" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="70" font-weight="700" fill="#7fe3ff">ASM</text>
+  <path d="M64 176h128" stroke="#5b6cff" stroke-width="8" stroke-linecap="round"/>
+</svg>
